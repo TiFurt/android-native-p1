@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">P1</string>
+    <string name="amount_end_investment">Montante desejado ao final do investimento</string>
+    <string name="money">R$ 0,00</string>
+    <string name="retirement_time">Quantidade de anos até a aposentadoria</string>
+    <string name="calculate">Calcular Contribuição Mensal</string>
+    <string name="interest_rate">Taxa de juros anual</string>
+    <string name="interest_rate_hint">Ex: 10%</string>
+    <string name="retirement_time_hint">Ex: 30 anos</string>
+    <string name="goBack">Voltar</string>
+    <string name="interest_rate_must_be">A contribuição mensal deve ser de:</string>
 </resources>
